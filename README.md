@@ -1,4 +1,4 @@
-# People Desk Employee Management System  
+# People Desk Employee Management System
 
 A Java 17 / Spring Boot REST API with an H2 database and a standalone HTML, CSS, JavaScript, and Bootstrap frontend. The backend and frontend are separate processes; the frontend reads its API endpoint from `API_BASE_URL` when it starts.
 
